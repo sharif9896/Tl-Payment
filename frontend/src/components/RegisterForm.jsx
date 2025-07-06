@@ -17,7 +17,7 @@ const faqs = [
           className="w-full max-w-md mb-3 border rounded"
         />
         <a
-          href="gh.png"
+          href="ammi.jpeg"
           download="react-example.png"
           className="inline-block text-white bg-blue-600 hover:bg-blue-700 px-4 py-2 rounded transition"
         >
