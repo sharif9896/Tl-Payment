@@ -12,12 +12,12 @@ const faqs = [
     content: (
       <>
         <img
-          src="ammi.jpeg"
+          src="pay.jpeg"
           alt="ReactJS Example"
           className="w-full max-w-md mb-3 border rounded"
         />
         <a
-          href="ammi.jpeg"
+          href="pay.jpeg"
           download="react-example.png"
           className="inline-block text-white bg-blue-600 hover:bg-blue-700 px-4 py-2 rounded transition"
         >
@@ -28,11 +28,11 @@ const faqs = [
   },
   {
     question: "Pay with Phone Number",
-    content: <p>+91 9952247717</p>,
+    content: <p>+91 9385547735</p>,
   },
   {
     question: "Pay with UPI ID",
-    content: <p>raheelatl539@oksbi</p>,
+    content: <p>techleadeducation@okaxis</p>,
   },
 ];
 
